@@ -1794,8 +1794,8 @@ figure.effect-oscar:hover img {
     position: absolute;
     display: block;
     float:left;
-	border-left: 120px solid #fff;
-	border-right: 305px solid #fff;
+	/* border-left: 120px solid #fff;
+	border-right: 305px solid #fff; */
 }
 
 .img-top {
@@ -1991,8 +1991,8 @@ figure.effect-oscar:hover img {
 .testimonial-thumb img{
 	border: 1px solid #8E8E8E;
 	padding: 3px;
-	width: 80px;
-	height: 80px;
+	width: 20%;
+	height: 28%;
 	border-radius: 100%;
 }
 .testimonial-slide .testimonial-content h3.name{
