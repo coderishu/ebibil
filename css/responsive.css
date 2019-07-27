@@ -320,6 +320,13 @@
 	.navbar-brand.navbar-bg img{
 		background-size: contain;
 		width: 69px;
+		height:47px;
+	}
+	.img-hexagon.sandip {
+		width: 402px;
+	}
+	.pol img{
+		width:39%;
 	}
 
 	img.image1{
@@ -389,6 +396,9 @@
 	.service-content{
 		display: inline-block;
 		margin-bottom: 30px;
+		text-align: center;
+    margin: 30px auto;
+    display: table;
 	}
 
 	/* Portfolio */

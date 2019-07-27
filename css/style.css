@@ -656,7 +656,8 @@ blockquote {
 }
 
 .header-solid ul.navbar-nav > li > a{
-	color: #fff;
+	/* color: #fff; */
+	color: #000
 }
 
 /*-- Logo --*/
@@ -685,7 +686,7 @@ img.image1{
 
 .navbar-brand img{
 	float: right;
-	padding: 0 15px;
+	padding: 0 6px;
 
 }
 
@@ -720,7 +721,7 @@ ul.navbar-nav > li > a{
 	font-family: 'JaapokkiRegular';
   	text-transform: uppercase;
   	font-size: 14px;
-	color: #fff;
+	color: #000;
 	padding-top: 22px;
 	padding-bottom: 20px;
 	line-height: 20px;
@@ -728,11 +729,12 @@ ul.navbar-nav > li > a{
 
 ul.navbar-nav > li:last-child a{
 	padding-right: 0;
+	color:#000;
 }
 
 ul.navbar-nav > li.active > a,
 ul.navbar-nav > li > a:hover{
-
+color:#000;
 }
 
 ul.navbar-nav > li > a i{
